@@ -1,4 +1,10 @@
-.App {
+.App{
+  background-image: linear-gradient(to top, #FFF1EB 0%, #ACE0F9 100%);
+
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+ */
